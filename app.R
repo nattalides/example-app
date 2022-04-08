@@ -2,7 +2,7 @@ library(shiny)
 
 ui <- fluidPage(
   
-  titlePanel("Hello World!"),
+  titlePanel("Hello Everyone!"),
   
   sidebarLayout(
     sidebarPanel(
